@@ -2,7 +2,9 @@
 title: "Siuslaw Basin Precipitation Analysis Proposal"
 author: "Clayton Glasser"
 date: "June 17, 2018"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 #The Challenge

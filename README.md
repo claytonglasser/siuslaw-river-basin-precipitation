@@ -9,7 +9,7 @@ output:
 
 # The Challenge
 
-The 773 square mile Siuslaw River Basin  is one of the most important natural sites in the United States. More timber has been sourced from the forest contained within this basin over time than any other area of equivalent size in the country. In the early 20th century, the Siuslaw river was the also the richest salmon breeding grounds anywhere in the United States, with local canneries processing as many at 60,000 coho salmon a year. Over time, as the effects of forestry practices have been realized, the salmon population has declined. 
+The ~773 square mile Siuslaw River Basin  is one of the most important natural sites in the United States. More timber has been sourced from the forest contained within this basin over time than any other area of equivalent size in the country. In the early 20th century, the Siuslaw river was the also the richest salmon breeding grounds anywhere in the United States, with local canneries processing as many at 60,000 coho salmon a year. Over time, as the effects of forestry practices have been realized, the salmon population has declined. 
 
 Common forestry practices often result the channelization of streams and the erosion of river banks, which lead to less conducive habitat for salmon. With fewer salmon in the river, less fertility is deposited in the stream and the surrounding area, which leads to less conducive habitat for vegetation, including timber. In effect, poor forest management practices have resulted in both ecological and economic losses. 
 

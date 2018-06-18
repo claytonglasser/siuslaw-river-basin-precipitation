@@ -1,7 +1,7 @@
 ---
 title: "Siuslaw Basin Precipitation Analysis Proposal"
 author: "Clayton Glasser"
-date: "June 17, 2018"
+date: "June 18, 2018"
 output:
   html_document:
     df_print: paged
